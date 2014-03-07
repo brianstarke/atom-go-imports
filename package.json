@@ -1,0 +1,14 @@
+{
+  "name": "go-imports",
+  "main": "./lib/go-imports",
+  "version": "0.0.0",
+  "description": "Run goimports/go fmt on save",
+  "activationEvents": ["go-imports:toggle"],
+  "repository": "https://github.com/brianstarke/atom-go-imports",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
